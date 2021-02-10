@@ -1,0 +1,7 @@
+To display the project do following steps:
+go to cmd and in that directory which u stored the file in.
+then paste python -m http.server
+then go to browser and paste http://localhost:8000
+
+If this doesnt work then view this url.
+https://editor.p5js.org/omkarojas20/full/-w42YMjCF
